@@ -1,0 +1,54 @@
+[33mcommit 910a312062f0aab5fff54c7b71d3496b4b35ee9d[m[33m ([m[1;36mHEAD -> [m[1;32mrelease1[m[33m, [m[1;31morigin/release1[m[33m)[m
+Merge: 8fa0b4c acd3534
+Author: akshat-thapliyal <akshat.thapliyal@gmail.com>
+Date:   Sun May 31 10:59:51 2020 +0000
+
+    Merge branch 'release1' of https://github.com/akshat-thapliyal/git-demo into release1
+
+[33mcommit 8fa0b4c8dc4b12a2ab9bb9b16ed490e5e68d1c1f[m
+Author: akshat-thapliyal <akshat.thapliyal@gmail.com>
+Date:   Sun May 31 10:55:17 2020 +0000
+
+    Missed this change
+
+[33mcommit acd3534e0471081502c1b0ffa1146cb39bbf556b[m
+Author: akshat-thapliyal <akshat.thapliyal@gmail.com>
+Date:   Sun May 31 10:55:17 2020 +0000
+
+    New Modification 1
+
+[33mcommit 2a400e072e6e270e6fd523356f1a8868a939da13[m
+Author: akshat-thapliyal <akshat.thapliyal@gmail.com>
+Date:   Sun May 31 10:52:30 2020 +0000
+
+    New Modification
+
+[33mcommit 26205f952c710881d4f32cd628871a9378dcf8f2[m
+Author: akshat-thapliyal <akshat.thapliyal@gmail.com>
+Date:   Sun May 31 10:49:33 2020 +0000
+
+    Hello World
+
+[33mcommit 49dd02b2db727a066c0da0037bd408c191c2c928[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: akshat-thapliyal <akshat.thapliyal@gmail.com>
+Date:   Sun May 31 10:06:21 2020 +0000
+
+    My First Commit
+
+[33mcommit 31d021a16abc31ab6d1ba3fd110488445a41b819[m
+Author: Vignesh Hariram <vigneshgh@gmail.com>
+Date:   Wed May 20 07:09:47 2020 +0000
+
+    create c.txt
+
+[33mcommit 2db6fe843feef8a0815dc7eac221086e0e9b8fbe[m
+Author: Vignesh Hariram <vigneshgh@gmail.com>
+Date:   Sat May 16 13:23:14 2020 +0000
+
+    update b
+
+[33mcommit e9a1f6e6cf7d9b4483d73631c03307addc079bb0[m
+Author: Vignesh Hariram <vigneshgh@gmail.com>
+Date:   Sat May 16 13:18:17 2020 +0000
+
+    Update a.txt
